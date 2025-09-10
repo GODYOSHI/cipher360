@@ -6,7 +6,7 @@
 using namespace std;
 
 int main() {
-    // Paste ciphertext directly into a string OR read from file
+    
     string ciphertext =
         "lrvmnir bpr sumvbwvr jx bpr lmiwv yjeryrkbi jx qmbm wi "
         "bpr xjvni mkd ymibrut jx irhx wi bpr riirkvr jx "
